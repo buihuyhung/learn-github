@@ -6,9 +6,3 @@ fifth commit
 six commit
 
 eigth commit
-seven commit
-
-11
-22
-33
-44
